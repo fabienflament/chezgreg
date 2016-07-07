@@ -24,7 +24,7 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="com.simplec.plugins.localnotification" />
 
-	<icon src="icon.png" />
+	<icon src="appli.png" />
 	
     <icon src="res/icons/ios/Icon.png" gap:platform="ios" width="57" height="57" />
     <icon src="res/icons/ios/Icon@2x.png" gap:platform="ios" width="114" height="114" />    
@@ -36,7 +36,7 @@
     <icon src="res/icons/android/drawable-hdpi/ic_launcher.png" gap:platform="android" gap:density="hdpi" />
     <icon src="res/icons/android/drawable-xdpi/ic_launcher.png" gap:platform="android" gap:density="xhdpi" />
 	
-    <gap:splash src="splash.png" />
+    <gap:splash src="appli.png" />
     
     <gap:splash src="res/screen/android/drawable-ldpi/splash.png"  gap:platform="android" gap:density="ldpi" />
     <gap:splash src="res/screen/android/drawable-mdpi/splash.png"  gap:platform="android" gap:density="mdpi" />
