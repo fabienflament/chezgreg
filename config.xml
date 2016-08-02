@@ -3,7 +3,7 @@
     
     <name>Chez Greg</name>
     <description>La France dans votre verre et votre assiette !</description>
-    <author email="fabien.flament63@hotmail.fr" href="http://chezgreg.pe.hu">Grégory Carrenza</author>
+    <author email="fabien.flament63@hotmail.fr" href="http://chezgreg.pe.hu">Grégory Carranza</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -36,7 +36,6 @@
     
     <gap:splash src="res/screen/ios/Default.png" gap:platform="ios" width="320" height="480" />
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
-    <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
     <content src="http://chezgreg.pe.hu" />
     <access origin="*" subdomains="true" />
